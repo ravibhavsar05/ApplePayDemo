@@ -1,6 +1,5 @@
 # ApplePayDemo
 
-This project 
  ## Requirements
 
 - iOS 11.0+
